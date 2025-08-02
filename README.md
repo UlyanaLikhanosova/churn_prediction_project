@@ -4,7 +4,8 @@ ML-модель, которая прогнозирует отток пользо
 
 Задача: снизить отток клиентов на 15-20% через персонализированные предложения.
 
-![Пример работы модели](https://disk.yandex.ru/i/LDsIvRdTWwL_DQ)
+![Пример работы модели](https://github.com/UlyanaLikhanosova/churn_prediction_project/blob/main/Results.JPG)
+
 
 Данная работа была выполнена в группе из 2 человек.
 
@@ -87,6 +88,8 @@ churn_prediction_project/
 
 └── requirements.txt
 
+└── Results.JPG
+
 ```
 
 ## Результаты
@@ -113,6 +116,7 @@ Email: likhanosova@yandex.ru
 
 
 ```
+
 
 
 
