@@ -116,12 +116,3 @@ churn_prediction_project/
 Автор: [Лиханосова Ульяна и Ларченков Дмитрий]
 
 Email: likhanosova@yandex.ru
-
-
-```
-
-
-
-
-
-
